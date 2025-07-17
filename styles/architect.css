@@ -161,6 +161,7 @@ main > section{
         gap: 130px;
         justify-items: center;
         align-items: center;
+        margin-left: 50px;
     }
     
     .big{
@@ -274,7 +275,10 @@ main > section{
     .sponsor-companies{
         grid-template-columns: 1fr;
     }
-
+     
+    .features{
+        margin-left: 15px;
+    }
 
     .facts-container, .sponsor-companies {
         justify-items: center;
@@ -308,6 +312,10 @@ main > section{
         padding: 30px;
         margin-top: 20px;
         margin-left: 30%;
+    }
+
+    .features{
+        margin-left: 15px;
     }
 
     .feature-architect img{
